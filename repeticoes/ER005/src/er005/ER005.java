@@ -76,6 +76,8 @@ public class ER005 {
                                 } else {
                                     System.out.println("O número " + n2 + " é ímpar.");
                                 }
+                            } else {
+                                System.out.println("Digite um valor Válido.");
                             }
                         }
                     }
