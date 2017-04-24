@@ -63,3 +63,5 @@ $RECYCLE.BIN/
 *.lnk
 
 /repeticoes/ER006/build/
+/repeticoes/ER007/nbproject/private/
+/repeticoes/ER007/build/
